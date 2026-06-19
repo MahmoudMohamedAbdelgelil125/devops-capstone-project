@@ -30,3 +30,5 @@ httpie==3.2.1
 
 #behave
 behave>=1.2.6
+flask-talisman
+Flask-Cors
